@@ -26,8 +26,8 @@ Model Evaluation:
 - Evaluate model with confusion matrix and log-loss
 
 Results:
-80% accuracy, no churn (precision: 0.84, recall: 0.91), churn (precision: 0.68, recall: 0.51)
-logloss: 0.401
+- 80% accuracy, no churn (precision: 0.84, recall: 0.91), churn (precision: 0.68, recall: 0.51)
+- Logloss: 0.401
 
 # File 2: Telecom Viz
 
