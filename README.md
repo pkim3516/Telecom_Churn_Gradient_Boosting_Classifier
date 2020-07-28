@@ -20,9 +20,10 @@ Model Selection:
 - Cross validate different classifiers to select which model we will tune
   - Logistic Regression, SVM, Random Forest, K-Neighbors, Gradient Boosting Classifier
 - Use grid search to tune the learning rate and depth of GB Classifier
+- Further improve by applying SelectKBest and Chi2 to select best features
 
 Model Evaluation:
-- Further improve by applying SelectKBest and Chi2 to select best features
+
 - Evaluate model with confusion matrix and log-loss
 
 Results:
