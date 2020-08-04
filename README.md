@@ -1,5 +1,5 @@
-# Telecom_Churn_Analysis_Prediction
-Explore, clean, and visualize prior to applying ML models to this Telecomm data set found on Kaggle
+## Telecom_Churn_Analysis_Prediction
+Predict customer attrition with 80% accuracy for this dataset found on Kaggle. 
 
 Data found on Kaggle at https://www.kaggle.com/blastchar/telco-customer-churn
 
